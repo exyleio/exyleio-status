@@ -1,5 +1,5 @@
-# Exyle.io Status Site
+# Exyle.io Status site
 
 - submit issues [here](https://github.com/exyleio/exyleio/issues)
 
-## [Documentation](https://exyleio-docs.web.app/docs/projects/status/overview)
+## [Documentation](https://exyleio-docs.web.app/docs/projects/status-site/overview)
